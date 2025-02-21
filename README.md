@@ -31,8 +31,8 @@ Table of Contents:
 7. Module 6: AWS Storage Services (S3, EBS, EFS, etc.)
 8. Module 7: AWS Databases (RDS, DynamoDB, etc.)
 9. Module 8: Security in AWSModule 8: Security in AWS
-10. Module 9: Monitoring & Optimization (CloudWatch, Trusted Module 9: Monitoring & Optimization (CloudWatch, Trusted Advisor, etc.)Advisor, etc.)
-11. Module 10: Migration and Innovation in AWSModule 10: Migration and Innovation in AWS
-12. ConclusionConclusion
-13. ReferencesReferences
+10. Module 9: Monitoring & Optimization (CloudWatch, Trusted, Advisor, etc.)
+11. Module 10: Migration and Innovation in AWS
+12. Conclusion
+13. References
 
