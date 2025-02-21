@@ -4,6 +4,14 @@ Title Page:
  Course: AWS Academy Cloud Foundations
  Date: Feb 3, 2025
 
+Certificate of Completion:
+Rohith Y V
+AWS Academy Graduate - AWS Academy Cloud Foundations
+issued on:
+02/03/2025
+
+Digital badge
+https://www.credly.com/go/wR87YXSG
 
 
 Introduction:
